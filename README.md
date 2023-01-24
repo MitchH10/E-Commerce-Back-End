@@ -3,6 +3,9 @@
 ## Description
 This is an express backend for an E-Commerse api. This api uses mysql with sequelize to store product, category, and tag data for items in a store. Using the REST standard following api request can be made to view all, view one, create, update, and delete products, categories, and tags.
 
+## Video Showcase Link
+[https://drive.google.com/file/d/1ErT-BOuV_G79VPHn3zIgNA3Y3_e4889i/view](https://drive.google.com/file/d/1ErT-BOuV_G79VPHn3zIgNA3Y3_e4889i/view)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
